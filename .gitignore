@@ -1,0 +1,4 @@
+# 실제 브랜드가 포함된 이전 작업본은 저장소에 올리지 않음
+baemin-landing.html
+screenshots/*
+!screenshots/rebrand_배달한상.png
